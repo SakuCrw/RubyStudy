@@ -23,7 +23,7 @@ class MegaGreeter
     end
 
     # say bye to everbody
-    def say_by 
+    def say_bye
         if @names.nil? 
             puts "..."
         elsif @names.respond_to?("join")
