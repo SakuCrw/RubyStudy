@@ -12,7 +12,7 @@
             "cwd": "${workspaceRoot}",
             "program": "${workspaceRoot}/ri20min.rb",
             "showDebuggerOutput": true
-            "useBundler": true
+//            "useBundler": true
             
         }/*,
         {
