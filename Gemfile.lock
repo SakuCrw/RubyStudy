@@ -10,10 +10,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   debase
   ruby-debug-ide
 
 BUNDLED WITH
-   1.16.1
+   1.16.4
